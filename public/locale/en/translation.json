@@ -1,0 +1,19 @@
+{
+    "dash": "Dashboard",
+    "menu": "MENU",
+    "cust": "Customer Reg",
+    "rate": "Rate Info",
+    "emp": "Employees",
+    "calender": "Calendar",
+    "Prof": "Profile",
+    "task": "Task",
+    "list": "Customer list",
+    "users": "Users",
+    "form": "Forms",
+    "formEle": "Form elements",
+    "formLa": "Form Layout",
+    "chart": "Charts",
+    "basicChart": "Basic Chart",
+    "advancedChart": "Advanced Chart",
+    "table": "Tables"
+}
